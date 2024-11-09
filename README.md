@@ -76,7 +76,7 @@ Page 1
 
 Page 2
 
-![page2](https://github.com/user-attachments/assets/15f176a2-9028-493e-b182-95331c814fd9)
+![page2](https://github.com/user-attachments/assets/f8482779-5668-4d63-a07f-5b93c692a325)
 
  
 # Key Features
